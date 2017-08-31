@@ -1,0 +1,10 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 0fr);
+}
+.box {
+  border-style: solid;
+  width: 100px;
+  height: 100px;
+  border-width: thin;
+}
